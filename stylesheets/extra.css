@@ -37,7 +37,7 @@
 
   /* Optional: show name under avatar */
   .md-sidebar--primary .md-sidebar__scrollwrap::after {
-    content: "15/07/2001 \A baolong1507.dh@gmail.com\A Ho Chi Minh City, Vietnam\A github.com/baolong1507";
+    content: "DoB: 15/07/2001 \A Addr: Ho Chi Minh City, Vietnam \A Gmail: baolong1507.dh@gmail.com";
     white-space: pre;
     display: block;
     text-align: left;
