@@ -52,5 +52,5 @@ As a young researcher driven by curiosity and a deep passion for Artificial Inte
 ---
 
 ## **Contact**
-- Email: [baolong1507.dh@gmail.com](mailto: baolong1507.dh@gmail.com)
-- LinkedIn: [www.linkedin.com/in/long17](www.linkedin.com/in/long17)  
+- Email: (<a href="baolong1507.dh@gmail.com" target="_blank" rel="noopener">baolong1507.dh@gmail.com</a>) 
+- LinkedIn: (<a href="www.linkedin.com/in/long17" target="_blank" rel="noopener">www.linkedin.com/in/long17</a>)
