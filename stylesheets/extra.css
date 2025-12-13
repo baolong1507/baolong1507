@@ -1,5 +1,6 @@
 .md-content {
   max-width: 980px;
+  text-align: justify;
 }
 
 .md-typeset h1 {
@@ -12,4 +13,37 @@
 
 .md-typeset p, .md-typeset li {
   line-height: 1.6;
+}
+
+/* Replace left sidebar nav with an avatar (desktop only) */
+@media screen and (min-width: 76.25em) {
+  /* Hide the default left navigation */
+  .md-sidebar--primary .md-nav {
+    display: none;
+  }
+
+  /* Add avatar block */
+  .md-sidebar--primary .md-sidebar__scrollwrap::before {
+    content: "";
+    display: block;
+    width: 180px;
+    height: 200px;
+    margin: auto auto 0.8rem auto;
+
+    background: url("../assets/avatar.jpg") center / cover no-repeat;
+    border-radius: 5px;
+    border: 1px solid var(--md-default-fg-color--lightest);
+  }
+
+  /* Optional: show name under avatar */
+  .md-sidebar--primary .md-sidebar__scrollwrap::after {
+    content: "15/07/2001 \A baolong1507.dh@gmail.com\A Ho Chi Minh City, Vietnam\A github.com/baolong1507";
+    white-space: pre;
+    display: block;
+    text-align: left;
+    line-height: 1.6;
+    margin: 0 auto auto 2rem;
+    font-size: .6rem;
+    color: var(--md-default-fg-color);
+  }
 }
