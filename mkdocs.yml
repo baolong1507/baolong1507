@@ -1,0 +1,22 @@
+site_name: "Bao Long's Homepage"
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.indexes
+    - toc.follow
+
+nav:
+  - Home: index.md
+  - Publications: publications.md
+  - Services: services.md
+  - Invited Talks: talks.md
+  - Misc/Hobbies: misc.md
+  - Blog:
+      - Blog Posts: blog/index.md
+      - posts:
+          - "First post": blog/posts/2025-01-01-first-post.md
+
+plugins:
+  - search
+  # - blog
