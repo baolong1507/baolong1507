@@ -1,16 +1,28 @@
-## Hi there 👋
+# Bao Long (Long) — AI/Software Engineer | Computer Vision | AI Systems
 
-<!--
-**baolong1507/baolong1507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Current focus: **Agentic/Light RAG**, **Vision State Space Models (SSM) for deraining**, and **AI-powered applied for automotive MBD workflows**
+- 🧠 Interests: MBD automation, GenAI for engineering, efficient on-device AI, AIoT
+- 📍 Ho Chi Minh City, Vietnam 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research & Engineering Interests
+- **Agentic RAG & Enterprise AI Assistants**: retrieval, routing, evaluation, citations, latency & cost optimization  
+- **Computer Vision in Extreme Weather**: deraining/restoration, frequency-spatial fusion, perception robustness  
+- **Automotive MBD Tooling (ASCET/MLSL)**: model-to-code workflows, libraries, testing automation, CI/CD  
+- **IoT & Telecom**: LoRa/AIoT systems, SDN, data management, THz communications & localization
+
+---
+
+## Skills
+**Languages**: Python, C/C++, MATLAB, Bash  
+**AI/ML**: PyTorch, Lightning, OpenCV, RAG pipelines, evaluation  
+**Backend/Tools**: FastAPI, Docker, CI/CD, vector databases  
+**MBD**: ASCET/ETAS workflows, library development, testing pipelines  
+**IoT/Telecom**: LoRa, SDN concepts, network modeling
+
+---
+
+## Contact
+- Email: [baolong1507.dh@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=baolong1507.dh@gmail.com)
+- LinkedIn: [www.linkedin.com/in/long17](https://www.linkedin.com/in/long17)
