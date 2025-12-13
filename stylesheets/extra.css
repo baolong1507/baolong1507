@@ -1,0 +1,15 @@
+.md-content {
+  max-width: 980px;
+}
+
+.md-typeset h1 {
+  margin-bottom: 0.4rem;
+}
+
+.md-typeset hr {
+  margin: 1rem 0;
+}
+
+.md-typeset p, .md-typeset li {
+  line-height: 1.6;
+}
