@@ -6,7 +6,7 @@ PostGraduate Student at Ho Chi Minh City University of Technology <br>
 ---
 
 ## **About me**
-As a young researcher driven by curiosity and a deep passion for Artificial Intelligence and emerging technological fields, I am always eager to continuous learning and scientific exploration. With a growth-oriented mindset, I aim to contribute to the development of innovative technologies that address real-world challenges. I build efficient, reliable AI systems and study LLM, vision model adaptation under constraints (compute, latency, continual updates). I seek to grow not only through academic pursuit but also by engaging with a collaborative and forward-thinking research community.
+As a young researcher driven by curiosity and a deep passion for Artificial Intelligence and emerging technological fields, I am always eager to continuous learning and scientific exploration. With a growth-oriented mindset, I aim to contribute to the development of innovative technologies that address real-world challenges. I research and build efficient, reliable AI systems and study LLM, vision model adaptation under constraints (compute, latency, continual updates). I seek to grow not only through academic pursuit but also by engaging with a collaborative and forward-thinking research community.
 
 *Focus areas:*<br> 
  - Agentic/Light AI systems under constraints (compute, latency, cost)<br> 
@@ -15,8 +15,12 @@ As a young researcher driven by curiosity and a deep passion for Artificial Inte
 ---
 
 ## **Education**
-- **2019-2024**: B.Eng. in Electronics and Telecommunications at Ho Chi Minh University of Technology
-- **2024-now**: PostGraduate student in Telecommunications Engineering at Ho Chi Minh University of Technology
+- **Ho Chi Minh University of Technology** <br> 
+*2019 - 2024*<br>
+B.Eng. in Electronics and Telecommunications
+- **Ho Chi Minh University of Technology** <br>
+*2024 - now*<br> 
+PostGraduate student in Telecommunications Engineering
 
 ---
 
@@ -52,5 +56,5 @@ As a young researcher driven by curiosity and a deep passion for Artificial Inte
 ---
 
 ## **Contact**
-- Email: (<a href="baolong1507.dh@gmail.com" target="_blank" rel="noopener">baolong1507.dh@gmail.com</a>) 
-- LinkedIn: (<a href="www.linkedin.com/in/long17" target="_blank" rel="noopener">www.linkedin.com/in/long17</a>)
+- Email: [baolong1507.dh@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=baolong1507.dh@gmail.com)
+- LinkedIn: [www.linkedin.com/in/long17](https://www.linkedin.com/in/long17)
