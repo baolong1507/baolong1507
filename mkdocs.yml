@@ -1,22 +1,29 @@
-site_name: "Bao Long's Homepage"
+site_name: "Bao Long"
+site_url: "https://baolong1507.github.io/baolong1507/"
 theme:
   name: material
   features:
-    - navigation.sections
-    - navigation.indexes
     - toc.follow
+    - navigation.top
+    - navigation.tracking
+  palette:
+    - scheme: default
 
 nav:
   - Home: index.md
-  - Publications: publications.md
-  - Services: services.md
-  - Invited Talks: talks.md
-  - Misc/Hobbies: misc.md
-  - Blog:
-      - Blog Posts: blog/index.md
-      - posts:
-          - "First post": blog/posts/2025-01-01-first-post.md
 
 plugins:
   - search
-  # - blog
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - attr_list
+  - def_list
+  - footnotes
+  - tables
+
+extra_css:
+  - stylesheets/extra.css
