@@ -8,7 +8,7 @@ theme:
     - toc.follow
     - navigation.tracking
   icon:
-    logo: material/atom
+    logo: fontawesome/solid/graduation-cap
 
 plugins:
   - search
