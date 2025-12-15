@@ -25,3 +25,4 @@ AI/Software Engineer | Computer Vision | AI Systems
 ## Contact
 - Email: [baolong1507.dh@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=baolong1507.dh@gmail.com)
 - LinkedIn: [www.linkedin.com/in/long17](https://www.linkedin.com/in/long17)
+

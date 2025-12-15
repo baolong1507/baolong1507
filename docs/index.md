@@ -42,7 +42,7 @@ PostGraduate student in Telecommunications Engineering
 ---
 
 ## **Publications (in progress)**
-- Manuscripts / preprints will be listed here ([PDF](https://example.com/your-preprint.pdf)).
+- Manuscripts / preprints are in progress.
 - Research notes: Image Deraining under extreme weather
 
 ---
